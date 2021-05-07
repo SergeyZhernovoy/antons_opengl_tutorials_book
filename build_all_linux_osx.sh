@@ -50,7 +50,7 @@ declare -a demo_folders=(
 "29_particle_systems"
 "30_skinning_part_one"
 "31_skinning_part_two"
-"32_skinnng_part_three"
+"32_skinning_part_three"
 "33_extension_check"
 "34_framebuffer_switch"
 "35_image_kernel"
@@ -59,6 +59,7 @@ declare -a demo_folders=(
 "38_texture_shadows"
 "39_texture_mapping_srgb"
 "40_compute_shader"
+"41_shader_hot_reload"
 )
 
 ## call make inside each folder
